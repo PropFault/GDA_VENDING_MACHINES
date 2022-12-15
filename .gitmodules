@@ -1,0 +1,3 @@
+[submodule "GDA_LOGIC_BLOCKS"]
+	path = GDA_LOGIC_BLOCKS
+	url = https://github.com/PropFault/GDA_LOGIC_BLOCKS.git
